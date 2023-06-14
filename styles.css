@@ -18,7 +18,10 @@ h1 {
     text-transform: uppercase;
     text-shadow: 0 0 10px rgba(65, 121, 67, 0.616);
 }
-
+h2{
+    color: #4CAF50;
+    text-decoration: overline;
+}
 input {
     margin-bottom: 10px;
     padding: 5px;
